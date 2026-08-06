@@ -1,4 +1,4 @@
-Hola, muchachos
+Práctica de Git y GitHub
 
 Comandos aprendidos:
 - git clone
