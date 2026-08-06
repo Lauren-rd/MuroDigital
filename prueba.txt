@@ -1,6 +1,6 @@
-Práctica de Git y GitHub
 
-Comandos aprendidos:
+
+
 - git clone
 - git pull
 - git status
