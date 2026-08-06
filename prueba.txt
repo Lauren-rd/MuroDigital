@@ -1,1 +1,11 @@
-tamohablando
+Práctica de Git y GitHub
+
+Comandos aprendidos:
+- git clone
+- git pull
+- git status
+- git add
+- git commit
+- git push
+
+Fecha de la práctica: 06/08/2026

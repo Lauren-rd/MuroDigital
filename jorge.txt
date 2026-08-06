@@ -1,0 +1,6 @@
+Nombre: Jorge Mario Benítez Romero
+
+Estudiante de Ingeniería de Sistemas
+Universidad Libre Seccional Barranquilla
+
+Este archivo fue creado para practicar el uso de Git y GitHub.
